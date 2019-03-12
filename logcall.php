@@ -102,8 +102,6 @@
 		</tr>
 		
 		<tr>
-			<td class="td_Data"><input type="reset"  name="btnReset" value="Reset"></td>
-			<td class="td_Data"><input type="submit" name="btnSubmit" value="Process Call...">
 			</td>
 		</tr>
 	</table>
